@@ -1,0 +1,171 @@
+*{
+    text-transform: capitalize;
+  
+  }
+
+/* .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    padding: 0rem 1.5rem;
+    color: black;
+    background-color: beige;
+    padding: 50px;
+    
+
+}
+.navbar ul li{
+    display: inline-block;
+     margin-left: 3rem;
+     font-size: var(--text);
+    
+     
+} */
+.navbar {
+    background-color: #333;
+    color:white;
+    padding: 10px 20;
+  }
+  .logo1{
+    font-size: 60px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  .navlinks{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   flex-grow: 1;
+   padding: 0 60px;
+ 
+  }
+  .nav-link{
+   padding: 20px;
+   font-size: 25px;
+  }
+  .butt{
+    display:block;
+    color: #333;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+  }
+
+  .cardcover{
+    width: 100%;
+    padding:100px;
+    height: 600px;
+    background-size: cover;
+   
+  }
+
+  .logo2{
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logo3{
+    font-style: oblique;
+    justify-content: center;
+    align-items: center;  
+    font-size: 30px;
+    font-weight: 10px;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  }
+
+  .cardcover1{
+    width:100%;
+   padding-top:100px ;
+    height: 900px;
+    background-size:cover;
+  
+  }
+  
+  .logo4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140px;
+    color: azure;
+    padding-left: 900px;
+  }
+
+  .logo5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: azure;
+    padding-left: 900px;
+  }
+
+
+  .cardcover3{
+    width: 100%;
+    padding:100px;
+    height: 400px;
+    background-size: cover; 
+  }
+  
+
+  .num{
+    font-size: 35px;
+    font-weight: 25;
+    font-family:calc() ;
+    background-color:#333;
+    width: 100%;
+  }
+
+  .foott{
+    background-color: #333;
+    justify-content: space-evenly;
+  }
+
+  
+  .coo1{
+    padding: 50px;
+    list-style: none;
+  }
+  .coo2{
+    padding: 50px;
+    list-style: none;
+  }
+  .coo3{
+    padding: 50px;
+    list-style: none;
+  }
+  .coo4{
+    padding: 50px;
+    list-style: none;
+  }
+  .nim{
+    font-size: 30px;
+    font-weight:60;
+    color: aliceblue;
+
+  }
+
+  .nim1{
+    color: aliceblue;
+  }
+  
+  
+  
+
+
+
+
